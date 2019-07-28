@@ -1,9 +1,9 @@
 @contacts = [
-  {first_name: "Saac", last_name: "Stewart", phone: "(555)263-7572" },
-  {first_name: "Coleen", last_name: "Wagdangle", phone: "(555)701-0142" },
-  {first_name: "Been", last_name: "Start", phone: "" },
-  {first_name: "Weed", last_name: "PeePeeSon", phone: "" },
-  {first_name: "Bard", last_name: "ButtHead", phone: "1234567890" },
+  {first_name: "Fred", last_name: "Stewart", phone: "(800)1112222" },
+  {first_name: "Coleen", last_name: "Vang", phone: "(801)2223333" },
+  {first_name: "Mark", last_name: "Pelt", phone: "" },
+  {first_name: "Reed", last_name: "Ming", phone: "" },
+  {first_name: "Bard", last_name: "Stepps", phone: "1234567890" },
 ]
 @menuOptions = ["***Ruby Contact List***", "What would you like to do?", "1) Create Contact", "2) View Contacts", "3) Edit Contact", "4) Delete Contact", "5) exit"] 
 
